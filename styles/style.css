@@ -56,3 +56,215 @@ padding: 21px 24px 21px 24px;
 margin: 0 auto;
 border-radius: 8px;
 }
+
+#card-box {
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    padding: 80px 97px 80px 97px;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.card-container {
+    margin: 15px auto;
+    text-align: center;
+    padding: 0px 97px;
+}
+
+#card-box .title{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    margin: 24px 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+#card-box .subtitle {
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+padding: 20px;
+}
+
+#card-box .card1 {
+width: 946px;
+height: 336px;
+border-radius: 16px;
+background: linear-gradient(90.00deg,
+rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+padding: 48px;
+}
+
+#card-box .text1 {
+    width: 477px;
+    height: 220px; 
+    display: block;
+    text-align: left;
+}
+
+#card-box .image-box1 {
+    float:right;
+}
+
+#card-box .card1 .text1 h3{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin: 16px 0px;
+}
+
+#card-box .card1 .text1 p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin: 15px 0;
+}
+
+#card-box .card1 .text1 button{
+    width: 150px;
+    height: 48px;
+    margin: 10px 0;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+}
+
+    #card-box .card2 {
+    width: 946px;
+    height: 336px;
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, 
+  rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    margin: 48px;
+    }
+
+    #card-box .card2 .text2 h3{
+        color: rgba(13, 19, 33, 0.7);
+        font-family: Azeret Mono;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0%;
+        text-align: right;
+        margin: 16px 0px;
+    }
+
+    #card-box .card2 .text2 {
+        width: 477px;
+        height: 220px; 
+        display: inline-block;
+        justify-content: right;
+        text-align: right;
+        margin-right: 101px;
+    }
+    
+    #card-box .image-box2 {
+        float:left;
+        
+    }
+    
+    #card-box .card2 .text2 p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: right;
+    opacity: 0.7;
+    padding: 20px;
+    }
+    
+    #card-box .card2 .text2 button{
+        width: 150px;
+        height: 48px;
+        margin: 10px 0;
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 23px;
+        letter-spacing: 0%;
+        float:right;
+    }
+
+    #card-box .card3 {
+        width: 946px;
+        height: 336px;
+        border-radius: 16px;
+        background: linear-gradient(90.00deg, 
+        rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+        padding: 48px;
+    }
+
+    #card-box .card3 .text3 {
+        width: 477px;
+        height: 220px; 
+        display: block;
+        justify-content: left;
+        text-align: left;
+    }
+
+    #card-box .card3 .text3 h3{
+        color: rgba(13, 19, 33, 0.7);
+      font-family: Azeret Mono;
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 36px;
+      letter-spacing: 0%;
+      text-align: left;
+}
+
+#card-box .image-box3 {
+    float:right;
+    
+}
+
+#card-box .card3 .text3 p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin: 16px 0px;
+padding: 20px 0px;
+
+}
+
+#card-box .card3 .text3 button{
+width: 149px;
+height: 48px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+}
